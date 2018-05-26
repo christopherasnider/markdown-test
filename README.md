@@ -1,5 +1,10 @@
-# markdown-test
-> Testing markdown formatting with multiple page importing.
+# Release Notes
+> Testing markdown formatting for Tidepool release notes
+
+[Tidepool for Web Updates](#tidepool-for-web)  
+[Tidepool Uploader Updates](#tidepool-uploader)  
+[Tidepool Mobile Updates](#tidepool-mobile)  
+
 <hr>
 
 ## Tidepool for Web  
@@ -47,6 +52,7 @@ Along the way, we made some adjustments to how and where your bolus tooltips dis
 [Trello Details](https://trello.com/c/MI81nZVi/16-bolus-tooltips-are-displaying-below-the-basal-rates-in-daily-view)
 
 [GitHub Details](https://github.com/tidepool-org/blip/releases/tag/v1.10.0)
+<hr>
 
 ## Tidepool Uploader  
 ### 2.5.11 (Released 5/16/2018)
@@ -115,6 +121,7 @@ Trello Details
 [Part 1](https://trello.com/c/gwB5pykC/3-uploader-delta-upload-ui), [Part 2](https://trello.com/c/5i0sM0wx/4-m-delta-uploads-3-of-4-medtronic-5-series), [Part 3](https://trello.com/c/ieSwFQq5/5-m-delta-uploads-4-of-4-tandem)
 
 [GitHub Details](https://github.com/tidepool-org/chrome-uploader/releases/tag/v2.5.1)
+<hr>
 
 ## Tidepool Mobile  
 ### 2.0.3 (Released 4/17/2018)  
