@@ -1,5 +1,9 @@
 # Release Notes
-> Testing markdown formatting for Tidepool release notes
+> Because GitHub can be a scary place if you don't know where to look, or what you're looking for, these release notes will make updates to Tidepool for Web, the Tidepool Uploader, and Tidepool Mobile a bit more readable.  
+
+> Because we love transparency, along with a description of what's new, each update includes a link out to the speicifc GitHub repository release and relevant public Trello cards so you can get a better sense of who, what, when, where, and why.  
+
+> Questions? Contact us at support@tidepool.org
 
 [Tidepool for Web Updates](#tidepool-for-web)  
 [Tidepool Uploader Updates](#tidepool-uploader)  
@@ -8,6 +12,9 @@
 <hr>
 
 ## Tidepool for Web  
+> Visit https://app.tidepool.org to see the results of these updates.  
+
+> Don't have a Tidepool account? Visit https://tidepool.org/signup to create your free Tidepool account.  
 ### 1.10.7 (Released 2018-05-14)
 We’ve added the AADE Foundation to our Tidepool Big Data Donation Project Nonprofit Partner list. Now you can choose to support an organization providing resources to diabetes educators with your data donation.  
 [Trello Details](https://trello.com/c/LWBzvGMr/2-add-aade-foundation-to-tidepool-big-data-donation-project-nonprofit-partner-list)
@@ -54,7 +61,10 @@ Along the way, we made some adjustments to how and where your bolus tooltips dis
 [GitHub Details](https://github.com/tidepool-org/blip/releases/tag/v1.10.0)
 <hr>
 
-## Tidepool Uploader  
+## Tidepool Uploader
+> Visit https://tidepool.org/uploader to download the latest version of the Tidepool Uploader.  
+
+> If you already have the Tidepool Uploader installed on your computer, it will automatically update to the latest version.
 ### 2.5.11 (Released 5/16/2018)
 Tidepool now supports Medtronic Veo (554/754) insulin pumps. Yay!  
 [Trello Details](https://trello.com/c/RU2SjKA1/7-uploader-support-medtronic-veo-554-754-pump)
@@ -124,6 +134,7 @@ Trello Details
 <hr>
 
 ## Tidepool Mobile  
+> Visit https://tidepool.org/mobile to learn more about Tidepool Mobile.  
 ### 2.0.3 (Released 4/17/2018)  
 Dexcom uploading has improved, and we’ve updated some behind the scenes components to improve performance and (if we need it) troubleshooting bugs.  
 Trello Details...(wait for it)  
