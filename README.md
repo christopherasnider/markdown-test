@@ -5,9 +5,9 @@
 
 > Questions? Contact us at support@tidepool.org
 
-[Tidepool for Web Updates](#tidepool-for-web)  
-[Tidepool Uploader Updates](#tidepool-uploader)  
-[Tidepool Mobile Updates](#tidepool-mobile)  
+[Jump to Tidepool for Web Updates](#tidepool-for-web)  
+[Jump to Tidepool Uploader Updates](#tidepool-uploader)  
+[Jump to Tidepool Mobile Updates](#tidepool-mobile)  
 
 <hr>
 
