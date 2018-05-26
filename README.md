@@ -9,6 +9,8 @@
 [Jump to Tidepool Uploader Updates](#tidepool-uploader)  
 [Jump to Tidepool Mobile Updates](#tidepool-mobile)  
 
+# Last Updated: 2018-05-25
+
 <hr>
 
 ## Tidepool for Web  
